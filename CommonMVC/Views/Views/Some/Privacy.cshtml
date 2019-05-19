@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+    string head = "Hello world!";
+    @: <p> Hi again!</p>
+    head += " Welcome on my site";
+
+}
+<h2>@ViewData["Title"]</h2>
+
+<p>Use this page to detail your site's privacy policy.</p>
+<p>@@DateTime.Now=@DateTime.Now.ToLongDateString()</p>
+<p>@head</p>

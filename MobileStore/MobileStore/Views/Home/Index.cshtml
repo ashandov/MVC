@@ -1,13 +1,16 @@
 ﻿@model IEnumerable<MobileStore.Models.Phone>
 @{
-    Layout = null;
+    ViewData["Title"] = "Product catalog";
 }
-<!doctype html>
-<html>
-<head>
-    <title>Mobile store</title>
-</head>
-<body>
+
+<form method="post" action="~/Home/Square">
+    <label>Height:</label><br/>
+    <input type="number" name="height" /><br />
+    <label>Altitude</label><br />
+    <input type="number" name="altitude"/><br/>
+    <input type="submit" name="Sent"/><br />
+</form>
+
     <h3>Smartphones</h3>
     <table>
         <tr>
@@ -26,5 +29,3 @@
             </tr>
         }
     </table>
-</body>
-</html>
