@@ -4,9 +4,6 @@
     <text>@i</text>
 
 }
-
-
-
 <text>@(i + 1)</text>
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
     <ol class="carousel-indicators">
@@ -98,7 +95,7 @@
         </ul>
     </div>
 </div>
-@inject Views.Services.IMessageSender MessageSender
-@MessageSender.SendMessage()
+@Html.RenderPartialAsync("_GetMessage", new List<string> { "Lumia 810", "Iphone 5s", "Galaxy tab 4" }); 
 @section Footer{
-    Shadows incorporated. All rights reserved 2019}
+ Shadows incorporated. All rights reserved 2019}
+

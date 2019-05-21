@@ -30,3 +30,8 @@ Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Views.Views.pdb
 Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Views.dll
 Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Views.pdb
 Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Views.csproj.CopyComplete
+Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Razor\Views\_Master.g.cshtml.cs
+Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Razor\Views\Other\Index.g.cshtml.cs
+Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Razor\Views\Other\_ViewImports.g.cshtml.cs
+Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Razor\Views\Home\_GetMessage.g.cshtml.cs
+Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Razor\Views\Other\_GetMessage.g.cshtml.cs

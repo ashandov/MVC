@@ -14,6 +14,10 @@ namespace Views.Controllers
         {
             return View();
         }
+        public  IActionResult GetMessage()
+        {
+            return PartialView("_GetMessage");
+        }
 
         public IActionResult About()
         {

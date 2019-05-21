@@ -9,5 +9,16 @@
     <div>
         @RenderBody()
     </div>
+    <footer>
+        @if (IsSectionDefined("Footer"))
+        {
+            @RenderSection("Footer");
+        }
+        else
+        {
+            <span>Content of the footer element</span>
+        }
+
+    </footer>
 </body>
 </html>
