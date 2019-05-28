@@ -1,0 +1,42 @@
+﻿@{ 
+    ViewData["Title"] = "Login";
+}
+
+    <form method="post">
+        <p>
+            <label>Login:</label><br />
+            <input type="text" name="login" /><br /><br />
+        </p>
+        <p>
+            <label>Password:</label><br />
+            <input type="password" name="password" /><br /><br />
+        </p>
+        <p>
+            <label>Age:</label><br />
+            <input type="number" name="age" /><br /><br />
+        </p>
+        <p>
+            <label>Comment:</label><br />
+            <textarea name="comment"></textarea>
+        </p>
+        <p>
+            <label>Save password:</label><br />
+            <input type="checkbox" name="savePassword" value="false" /><br /><br />
+        </p>
+        <p>
+            <input name="Sex" type="radio" value="male" />
+            <span>Male</span>
+            <input name="Sex" type="radio" value="female" />
+            <span>Female</span>
+        </p>
+        <p>
+            <label>Select country:</label>
+            <select name="country">
+                <option value="Belarus">Belarus</option>
+                <option value="Russia">Russia</option>
+                <option value="Ukraine">Ukraine</option>
+            </select>
+
+        </p>
+        <input type="submit" name="Sent" />
+    </form>
