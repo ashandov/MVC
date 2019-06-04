@@ -10,7 +10,7 @@ namespace ViewEngineCreating.Utils
 {
     public class CustomView : IView
     {
-        string Path { get; set; }
+       public string Path { get; set; }
         public CustomView(string viewPath)
         {
             Path = viewPath;

@@ -5,7 +5,6 @@ Z:\Projects\MVC\CommonMVC\Views\bin\Debug\netcoreapp2.1\Views.dll
 Z:\Projects\MVC\CommonMVC\Views\bin\Debug\netcoreapp2.1\Views.pdb
 Z:\Projects\MVC\CommonMVC\Views\bin\Debug\netcoreapp2.1\Views.Views.dll
 Z:\Projects\MVC\CommonMVC\Views\bin\Debug\netcoreapp2.1\Views.Views.pdb
-Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Views.csprojAssemblyReference.cache
 Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Views.csproj.CoreCompileInputs.cache
 Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Views.RazorAssemblyInfo.cache
 Z:\Projects\MVC\CommonMVC\Views\obj\Debug\netcoreapp2.1\Views.RazorAssemblyInfo.cs

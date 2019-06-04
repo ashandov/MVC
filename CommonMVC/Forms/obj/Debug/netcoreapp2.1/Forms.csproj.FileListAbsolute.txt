@@ -5,7 +5,6 @@ Z:\Projects\MVC\CommonMVC\Forms\bin\Debug\netcoreapp2.1\Forms.dll
 Z:\Projects\MVC\CommonMVC\Forms\bin\Debug\netcoreapp2.1\Forms.pdb
 Z:\Projects\MVC\CommonMVC\Forms\bin\Debug\netcoreapp2.1\Forms.Views.dll
 Z:\Projects\MVC\CommonMVC\Forms\bin\Debug\netcoreapp2.1\Forms.Views.pdb
-Z:\Projects\MVC\CommonMVC\Forms\obj\Debug\netcoreapp2.1\Forms.csprojAssemblyReference.cache
 Z:\Projects\MVC\CommonMVC\Forms\obj\Debug\netcoreapp2.1\Forms.csproj.CoreCompileInputs.cache
 Z:\Projects\MVC\CommonMVC\Forms\obj\Debug\netcoreapp2.1\Forms.RazorAssemblyInfo.cache
 Z:\Projects\MVC\CommonMVC\Forms\obj\Debug\netcoreapp2.1\Forms.RazorAssemblyInfo.cs

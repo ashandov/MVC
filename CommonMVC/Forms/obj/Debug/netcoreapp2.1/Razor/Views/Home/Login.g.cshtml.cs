@@ -65,7 +65,7 @@ using Forms.Models;
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(48, 1269, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "585ad573e50149ac9332b903cbd6b2d3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "51efafb0d85c48c18e1e1caeba952d7b", async() => {
                 BeginContext(68, 998, true);
                 WriteLiteral(@"
         <p>
@@ -100,7 +100,7 @@ using Forms.Models;
                 ");
                 EndContext();
                 BeginContext(1066, 40, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1351a7ed54f647a2829057b1709e3497", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ab9f4fa223074b7cac354385021a3dff", async() => {
                     BeginContext(1090, 7, true);
                     WriteLiteral("Belarus");
                     EndContext();
@@ -122,7 +122,7 @@ using Forms.Models;
                 WriteLiteral("\r\n                ");
                 EndContext();
                 BeginContext(1124, 38, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c1ecb06412664260a0f7dc4f4a0e5b5e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0f7eb2543cb44859858275b1b6fafcc3", async() => {
                     BeginContext(1147, 6, true);
                     WriteLiteral("Russia");
                     EndContext();
@@ -144,7 +144,7 @@ using Forms.Models;
                 WriteLiteral("\r\n                ");
                 EndContext();
                 BeginContext(1180, 40, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ef72edd665084237b5839983181460a2", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "314dc2e548b54aa0b4ec788368253042", async() => {
                     BeginContext(1204, 7, true);
                     WriteLiteral("Ukraine");
                     EndContext();

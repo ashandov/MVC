@@ -10,7 +10,9 @@ namespace ViewEngineCreating.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            var controller=RouteData.Values["controller"].ToString();
+            var action = RouteData.Values["action"].ToString();
+            return Content($"controller: {controller}  action:{action}");
         }
         public IActionResult About()
         {

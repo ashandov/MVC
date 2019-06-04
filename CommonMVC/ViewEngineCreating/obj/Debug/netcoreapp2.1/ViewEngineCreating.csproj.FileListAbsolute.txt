@@ -2,7 +2,6 @@ Z:\Projects\MVC\CommonMVC\ViewEngineCreating\bin\Debug\netcoreapp2.1\ViewEngineC
 Z:\Projects\MVC\CommonMVC\ViewEngineCreating\bin\Debug\netcoreapp2.1\ViewEngineCreating.runtimeconfig.json
 Z:\Projects\MVC\CommonMVC\ViewEngineCreating\bin\Debug\netcoreapp2.1\ViewEngineCreating.runtimeconfig.dev.json
 Z:\Projects\MVC\CommonMVC\ViewEngineCreating\bin\Debug\netcoreapp2.1\ViewEngineCreating.dll
-Z:\Projects\MVC\CommonMVC\ViewEngineCreating\obj\Debug\netcoreapp2.1\ViewEngineCreating.csprojAssemblyReference.cache
 Z:\Projects\MVC\CommonMVC\ViewEngineCreating\obj\Debug\netcoreapp2.1\ViewEngineCreating.csproj.CoreCompileInputs.cache
 Z:\Projects\MVC\CommonMVC\ViewEngineCreating\obj\Debug\netcoreapp2.1\ViewEngineCreating.RazorAssemblyInfo.cache
 Z:\Projects\MVC\CommonMVC\ViewEngineCreating\obj\Debug\netcoreapp2.1\ViewEngineCreating.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@ Z:\Projects\MVC\CommonMVC\ViewEngineCreating\obj\Debug\netcoreapp2.1\ViewEngineC
 Z:\Projects\MVC\CommonMVC\ViewEngineCreating\bin\Debug\netcoreapp2.1\ViewEngineCreating.pdb
 Z:\Projects\MVC\CommonMVC\ViewEngineCreating\obj\Debug\netcoreapp2.1\ViewEngineCreating.dll
 Z:\Projects\MVC\CommonMVC\ViewEngineCreating\obj\Debug\netcoreapp2.1\ViewEngineCreating.pdb
+Z:\Projects\MVC\CommonMVC\ViewEngineCreating\obj\Debug\netcoreapp2.1\ViewEngineCreating.csprojAssemblyReference.cache
